@@ -1,7 +1,7 @@
-# Unstructured and Distributed Data Modeling and Analysis
-# Spring 2020
+### Unstructured and Distributed Data Modeling and Analysis
+### Spring 2020
   
-## Team-Uncompahgre-Peak
+### Team-Uncompahgre-Peak
 
 Team Members:
 
@@ -13,6 +13,6 @@ Alyson Chen
 
 Teddy Li
 
-# Objective:
+### Objective:
 
 A Data Analysis of Covid19 Air Pollution Implications Through HDFS and Spark
