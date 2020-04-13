@@ -42,6 +42,20 @@ Create team structures that allow for individual work and collaboration:
 Design list of responsibilities and set associated deadlines.
 Dedicate time to collaborate with group members and discuss project progression.
 
+##Potential Data Sets
+https://www.kaggle.com/bappekim/air-pollution-in-seoul#Measurement_summary.csv
+
+https://www.kaggle.com/open-aq/openaq
+
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+
+https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset
+
+https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset
+
+https://aqicn.org/data-platform/register/
+
+
 
 ## Final Data Set Site
 https://aqicn.org/data-platform/covid19/verify/1f056543-9baa-4ba0-8561-110d171415b5
