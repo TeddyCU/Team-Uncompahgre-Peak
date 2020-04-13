@@ -51,8 +51,11 @@ The data for each major cities is based on the average (median) of several stati
 
 ## Timeline 
 Requirement Phase is due April 12th, 2020.
+
 Design, Development and Test phase is due April 25th, 2020.
+
 Deployment is due April 28th, 2020.
+
 Presentation is due April 28th, 2020.
 
 
