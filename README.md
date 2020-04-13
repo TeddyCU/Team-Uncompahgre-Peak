@@ -1,4 +1,7 @@
-# Team-Uncompahgre-Peak
+# Unstructured and Distributed Data Modeling and Analysis
+  Spring 2020
+  
+## Team-Uncompahgre-Peak
 
 Team Members:
 
