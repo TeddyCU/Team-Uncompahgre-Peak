@@ -42,7 +42,8 @@ Create team structures that allow for individual work and collaboration:
 Design list of responsibilities and set associated deadlines.
 Dedicate time to collaborate with group members and discuss project progression.
 
-##Potential Data Sets
+## Potential Data Sets
+
 https://www.kaggle.com/bappekim/air-pollution-in-seoul#Measurement_summary.csv
 
 https://www.kaggle.com/open-aq/openaq
