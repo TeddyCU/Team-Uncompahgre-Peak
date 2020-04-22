@@ -25,7 +25,7 @@ class totaldata:
         frame = pd.concat(all, axis=0,ignore_index=True)
         frame['Date']=pd.to_datetime(frame['Date'],format='%Y/%m/%d')
         frame['Date']=frame['Date'].dt.date
-        frame=frame.sort_values(by=['Date']).groupby(['Country','City'])
+        frame=frame.sort_values(by=['Date','Country'])
         return frame
     
     def covid19china(self):
@@ -39,6 +39,7 @@ class totaldata:
         frame=frame.loc[frame['Country/Region']=='Mainland China'].reset_index()
         frame=frame.drop(['index','SNo','Last Update'],axis=1)
         frame['ObservationDate']=pd.to_datetime(frame['ObservationDate'],format='%m/%d/%Y')
+        frame['ObservationDate']=frame['ObservationDate'].dt.date
         frame=frame.sort_values(by=['ObservationDate'])
         return frame
     
