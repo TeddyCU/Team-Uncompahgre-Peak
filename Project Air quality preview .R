@@ -27,7 +27,7 @@ tail(airquality2019) # end data: 2019-03-29
 #merge q1 and q2
 #airquality2019 =rbind(airquality2019,airquality20192)
 
-#separate dates
+#separate dates (could help with making aggregations and time series graphs)
 #library(tidyr)
 #airquality2019=separate(airquality2019, "Date", c("Year", "Month", "Day"), sep = "-")
 
