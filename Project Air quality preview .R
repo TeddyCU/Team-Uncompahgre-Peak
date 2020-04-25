@@ -123,7 +123,7 @@ g4 = g4 + theme_bare+labs(title="La 2020 air Quality")+
 
 hist(airquality2019$median- airquality2020$median)
 
-# merging data
+# merging data (potentially merge data to facilitate calculating differences bt 2019 and 2020)
 head(df1)
 df1=airquality2019
 df1$Date<-NULL
